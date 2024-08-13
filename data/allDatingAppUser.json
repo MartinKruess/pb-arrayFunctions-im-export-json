@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "username": "lovelyLisa",
+      "age": 24,
+      "geschlecht": "weiblich"
+    },
+    {
+      "username": "coolChris",
+      "age": 30,
+      "geschlecht": "männlich"
+    },
+    {
+      "username": "happyHannah",
+      "age": 22,
+      "geschlecht": "weiblich"
+    },
+    {
+      "username": "daringDaniel",
+      "age": 28,
+      "geschlecht": "männlich"
+    },
+    {
+      "username": "brightBella",
+      "age": 26,
+      "geschlecht": "weiblich"
+    },
+    {
+      "username": "gentleGeorge",
+      "age": 33,
+      "geschlecht": "männlich"
+    },
+    {
+      "username": "sweetSarah",
+      "age": 27,
+      "geschlecht": "weiblich"
+    },
+    {
+      "username": "kindKevin",
+      "age": 29,
+      "geschlecht": "männlich"
+    },
+    {
+      "username": "radiantRachel",
+      "age": 39,
+      "geschlecht": "weiblich"
+    },
+    {
+      "username": "jollyJames",
+      "age": 25,
+      "geschlecht": "männlich"
+    }
+  ]
+}
